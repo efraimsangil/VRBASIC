@@ -1,0 +1,8 @@
+
+https://vgmrips.net/packs/pack/kung-fu-master-irem-m62
+Thomas_walk-Sheet.png			55x75
+Thomas_punch-Sheet.png			55x75	frame1:quiet
+Thomas_low_kick-Sheet.png		55x75
+Thomas_jump_kick-Sheet.png		55x75
+Thomas_high_kick-Sheet.png		55x75
+kungfumaster-arc_floor1.png:	1792x200
