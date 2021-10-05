@@ -18,7 +18,7 @@ _GLCALL(s1, "addframe", "graphics/Trojan-Stage1.png")
 
 GOSUB @PlayerInit
 _GLNEW(st,"music01","gl_music")
-_GLCALL("music01","load","audio/03_Stage_1.mp3")
+_GLCALL("music01","load","audio/03_Stage_1.ogg")
 ' _GLCALL("music01","play")
 
 _GLCALL(0, "play")
